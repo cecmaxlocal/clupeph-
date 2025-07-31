@@ -1,0 +1,38 @@
+{
+  "content": {
+    "body": "* I don't know the exact reason for the result, but for your calculation this describes the minimum rate which is 42 plus its exponent results in much more, but I think you are right about a rate of 42% for optimal reference. D̸̨̧̢̛̳̾͑͝o̵̻̩̐̏ơ̴̗̥̠͗̚͝m̸̥͙̉ͅS̶̭͛̈́̈́c̶̙̼̤͉͗r̶͓̙͇̝̆͒̈͝ǐ̵̱̻͔͖p̵̡̼̀̕t̴̰̙͇̘͂ ",
+    "format": "org.matrix.custom.html",
+    "formatted_body": "* I don't know the exact reason for the result, but for your calculation this describes the minimum rate which is 42 plus its exponent results in much more, but I think you are right about a rate of 42% for optimal reference. <a href=\"https://matrix.to/#/@doomscript:matrix.orobas.nl\">D̸̨̧̢̛̳̾͑͝o̵̻̩̐̏ơ̴̗̥̠͗̚͝m̸̥͙̉ͅS̶̭͛̈́̈́c̶̙̼̤͉͗r̶͓̙͇̝̆͒̈͝ǐ̵̱̻͔͖p̵̡̼̀̕t̴̰̙͇̘͂</a>",
+    "m.mentions": {
+      "user_ids": [
+        "@doomscript:matrix.orobas.nl"
+      ]
+    },
+    "m.new_content": {
+      "body": "I don't know the exact reason for the result, but for your calculation this describes the minimum rate which is 42 plus its exponent results in much more, but I think you are right about a rate of 42% for optimal reference. D̸̨̧̢̛̳̾͑͝o̵̻̩̐̏ơ̴̗̥̠͗̚͝m̸̥͙̉ͅS̶̭͛̈́̈́c̶̙̼̤͉͗r̶͓̙͇̝̆͒̈͝ǐ̵̱̻͔͖p̵̡̼̀̕t̴̰̙͇̘͂ ",
+      "format": "org.matrix.custom.html",
+      "formatted_body": "I don't know the exact reason for the result, but for your calculation this describes the minimum rate which is 42 plus its exponent results in much more, but I think you are right about a rate of 42% for optimal reference. <a href=\"https://matrix.to/#/@doomscript:matrix.orobas.nl\">D̸̨̧̢̛̳̾͑͝o̵̻̩̐̏ơ̴̗̥̠͗̚͝m̸̥͙̉ͅS̶̭͛̈́̈́c̶̙̼̤͉͗r̶͓̙͇̝̆͒̈͝ǐ̵̱̻͔͖p̵̡̼̀̕t̴̰̙͇̘͂</a>",
+      "m.mentions": {
+        "user_ids": [
+          "@doomscript:matrix.orobas.nl"
+        ]
+      },
+      "msgtype": "m.text"
+    },
+    "m.relates_to": {
+      "event_id": "$k4gUAWz1Pimu58xftP4VVZSmXGh03fGUb_6plSdcqLc",
+      "rel_type": "m.replace"
+    },
+    "msgtype": "m.text"
+  },
+  "origin_server_ts": 1753983810883,
+  "sender": "@cecmaxlocal:matrix.org",
+  "type": "m.room.message",
+  "unsigned": {
+    "membership": "join",
+    "age": 431,
+    "transaction_id": "m1753983810118.61"
+  },
+  "event_id": "$q9NSOb167plskmpxciVYJoZ7nQqq-LpdrWOpgfOhr50",
+  "room_id": "!UNybbMLXdOJzWrwaqo:matrix.org"
+}

@@ -1,0 +1,44 @@
+#<(SIMPLE-ARRAY CHARACTER (36)) {1005796F0F}>
+--------------------
+Dimensions: (36)
+Element type: CHARACTER
+Total size: 36
+Adjustable: NIL
+Fill pointer: NIL
+Contents:
+0: #\R
+1: #\e
+2: #\t
+3: #\r
+4: #\y
+5: #\ 
+6: #\S
+7: #\L
+8: #\I
+9: #\M
+10: #\E
+11: #\ 
+12: #\R
+13: #\E
+14: #\P
+15: #\L
+16: #\ 
+17: #\e
+18: #\v
+19: #\a
+20: #\l
+21: #\u
+22: #\a
+23: #\t
+24: #\i
+25: #\o
+26: #\n
+27: #\ 
+28: #\r
+29: #\e
+30: #\q
+31: #\u
+32: #\e
+33: #\s
+34: #\t
+35: #\.

@@ -1,0 +1,13 @@
+#<PACKAGE {1000014183}>
+--------------------
+Name: "COMMON-LISP-USER"
+Nick names: "CL-USER"
+Documentation:
+public: the default package for user code and data
+Use list: COMMON-LISP, SB-ALIEN, SB-DEBUG, SB-EXT, SB-GRAY, SB-PROFILE
+Used by list: 
+3 present symbols.
+0 external symbols.
+3 internal symbols.
+1329 inherited symbols.
+0 shadowed symbols.

@@ -1,0 +1,8 @@
+#<NULL {50100017}>
+--------------------
+Its name is: "NIL"
+It is a constant of value: @0=NIL [unbind]
+It has no function value.
+It is external to the package: COMMON-LISP [unintern]
+Property list: @0=NIL
+It names a primitive type-specifier.

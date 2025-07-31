@@ -1,0 +1,17 @@
+{
+  "content": {
+    "body": "Are you enjoying it?",
+    "m.mentions": {},
+    "msgtype": "m.text"
+  },
+  "origin_server_ts": 1753975804910,
+  "sender": "@cecmaxlocal:matrix.org",
+  "type": "m.room.message",
+  "unsigned": {
+    "membership": "join",
+    "age": 1189,
+    "transaction_id": "m1753975804186.54"
+  },
+  "event_id": "$T1SRVS0TiskXOQ7Yz078gd8VLUmbcKOvJv7eUbPf5yQ",
+  "room_id": "!UNybbMLXdOJzWrwaqo:matrix.org"
+}
